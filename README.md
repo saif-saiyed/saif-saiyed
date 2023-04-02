@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saif-saiyed
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... Web Projects
-- 📫 How to reach me ... 
+- 👋 Hi, I’m @saif-saiyed.
+- 👀 I’m interested in Coding, Web Development.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Projects.
+- 📫 How to reach me? On github.
 
 <!---
 saif-saiyed/saif-saiyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
